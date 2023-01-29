@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amir</h1>
 <h3 align="center">A passionate Game/Frontend developer from Austria</h3>
 
-- 🔭 I’m currently working on [The Card Dilemma](https://l0rdi.itch.io/the-card-dilemma)
+- 🔭 I’m currently working on [Animele](https://animele.org/)
 
-- 👯 I’m looking to collaborate on [D-Scent](https://l0rdi.itch.io/d-scent)
+- 👯 I’m looking to collaborate on [Goochee Studio](https://goochee.xyz/)
 
 - 👨‍💻 All of my projects are available at [https://l0rdi.itch.io/](https://l0rdi.itch.io/)
 
