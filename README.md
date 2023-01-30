@@ -5,9 +5,9 @@
 
 - 👯 I’m looking to collaborate on [Goochee Studio](https://goochee.xyz/)
 
-- 👨‍💻 All of my projects are available at [https://l0rdi.itch.io/](https://l0rdi.itch.io/)
+- 👨‍💻 All of my projects are available on [Itch](https://l0rdi.itch.io/)
 
-- 📝 I sometimes write articles on [https://medium.com/@amir_salman](https://medium.com/@amir_salman)
+- 📝 I sometimes write articles on [Medium](https://medium.com/@amir_salman)
 
 - 📫 How to reach me **amir_salman@outlook.com**
 
