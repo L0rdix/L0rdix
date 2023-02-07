@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available on [Itch](https://l0rdi.itch.io/)
 
-- 📝 I sometimes write articles on [Medium](https://medium.com/@amir_salman)
+- 📝 Check out my latest project [CodeCode](https://codecode.codes/)
 
 - 📫 How to reach me **amir_salman@outlook.com**
 
