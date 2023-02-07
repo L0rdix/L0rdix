@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available on [Itch](https://l0rdi.itch.io/)
 
-- 📝 Check out my latest project [CodeCode](https://codecode.codes/)
+- 📝 Check out my latest project: [CodeCode](https://codecode.codes/)
 
 - :coffee: You can support me on [Ko-Fi](https://ko-fi.com/amirrr)
 
