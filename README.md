@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on [Goochee Studio](https://goochee.xyz/)
 
-- 👨‍💻 All of my projects are available on [Itch](https://l0rdi.itch.io/)
+- 👨‍💻 All of my games are available on [Itch](https://l0rdi.itch.io/)
 
 - 📝 Check out my latest project: [CodeCode](https://codecode.netlify.app/)
 
