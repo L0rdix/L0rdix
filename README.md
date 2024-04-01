@@ -11,7 +11,7 @@
 
 - :coffee: You can support me on [Ko-Fi](https://ko-fi.com/amirrr)
 
-- 📫 How to reach me **amir_salman@outlook.com**
+- 📫 How to reach me **hello@amir-salman.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
