@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Animele](https://animele.org/)
 
-- 👯 I’m looking to collaborate on [Goochee Studio](https://goochee.xyz/)
+- :computer: All of my projects are [here](https://amir-salman.com/)
 
 - 👨‍💻 All of my games are available on [Itch](https://l0rdi.itch.io/)
 
-- 📝 Check out my latest project: [CodeCode](https://codecode.netlify.app/)
+- 📝 Check out my latest project: [CodeCode](https://animele.org/)
 
 - :coffee: You can support me on [Ko-Fi](https://ko-fi.com/amirrr)
 
