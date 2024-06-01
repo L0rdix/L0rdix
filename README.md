@@ -15,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="mailto:hello@amir-salman.com" target="blank">:envelope:</a>
   <a href="https://instagram.com/amir.salz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amir.salz" height="30" width="40" /></a>
 <a href="https://discord.gg/NW6yDQnkrz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="YmVcsazH" height="30" width="40" /></a>
 </p>
