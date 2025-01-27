@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amir</h1>
 <h3 align="center">A passionate Game/Frontend developer from Austria</h3>
 
-- 🔭 I’m currently working on [FOMO](https://animele.org/)
-
 - :computer: All of my projects are [here](https://amir-salman.com/)
 
 - 👨‍💻 All of my games are available on [Itch](https://l0rdi.itch.io/)
